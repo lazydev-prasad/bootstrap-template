@@ -1,0 +1,19 @@
+{
+    "name": "Bootstrap",
+    "version": "1.0.0",
+    "authors": [],
+    "description": "",
+    "main": "gulpfile.js",
+    "license": "MIT",
+    "ignore":[
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+
+    },
+    "private": true
+}
